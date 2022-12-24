@@ -8,5 +8,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amugt&theme=github_dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amugt&theme=github_dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amug)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amugt)](https://git.io/streak-stats)
 

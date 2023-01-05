@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amansisa</h1>
 <h3 align="center">I’m Web and Mobile App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amugt&label=Profile%20views&color=0e75b6&style=flat" alt="amugt" /> </p>
 
 - 🌱 I’m currently **working on web projects**
 
@@ -25,4 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amugt&show_icons=true&locale=en" alt="amugt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amugt&" alt="amugt" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amugt&label=Profile%20views&color=0e75b6&style=flat" alt="amugt" /> </p>
 

@@ -26,7 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amugt&show_icons=true&locale=en" alt="amugt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amugt&" alt="amugt" /></p>
 
 
 

@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently **working on web projects**
 
-- 👨‍💻 All of my projects are available at [amugt.github.io/](amugt.github.io/)
-
 - 📫 How to reach me **Amansis.g2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
